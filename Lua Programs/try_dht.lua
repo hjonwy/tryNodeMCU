@@ -11,7 +11,7 @@ yeelink.init(347794,388717,"9a181908773eadd2cd4596a1f2be76d2",function()
 	
 	if(t) then
 		print("tempareture :" .. t .. ", update yeelink.")
-		yeelink.update(t)
+		yeelink.update(t/10)
 	else
 		print("dht is not ready")
 	end
