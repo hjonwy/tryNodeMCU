@@ -9,7 +9,7 @@ yeelink.init(347794,388717,"9a181908773eadd2cd4596a1f2be76d2",function()
     dht.read(1)
 	t = dht.getTemperature()
 	
-	if(t) then
+	if t~= nil then
 		print("tempareture :" .. t .. ", update yeelink.")
 		yeelink.update(t/10)
 	else
