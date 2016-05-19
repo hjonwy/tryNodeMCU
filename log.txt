@@ -1,0 +1,290 @@
+> get current time from webapi.
+34160
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:48:14 GMT
+Server: Apache/2.4.6 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"sunrise":"2016-05-20 04:55","lng":121.59,"countryCode":"CN","gmtOffset":8,"rawOffset":8,"sunset":"2016-05-20 18:45","timezoneId":"Asia/Shanghai","dstOffset":8,"countryName":"China","time":"2016-05-19 22:48","lat":31.2}
+
+read dht
+tempareture :24
+humidity :39
+update yeelink.
+get current time from webapi.
+33816
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:48:31 GMT
+Server: Apache/2.4.6 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"sunrise":"2016-05-20 04:55","lng":121.59,"countryCode":"CN","gmtOffset":8,"rawOffset":8,"sunset":"2016-05-20 18:45","timezoneId":"Asia/Shanghai","dstOffset":8,"countryName":"China","time":"2016-05-19 22:48","lat":31.2}
+
+read dht
+tempareture :24
+humidity :39
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:48:45 GMT
+Server: Apache/2.4.6 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"sunrise":"2016-05-20 04:55","lng":121.59,"countryCode":"CN","gmtOffset":8,"rawOffset":8,"sunset":"2016-05-20 18:45","timezoneId":"Asia/Shanghai","dstOffset":8,"countryName":"China","time":"2016-05-19 22:48","lat":31.2}
+
+read dht
+tempareture :24
+humidity :39
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:48:58 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:48","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :24
+humidity :39
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:49:12 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:49","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :42
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:49:25 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:49","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :24
+humidity :39
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:49:39 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:49","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :24
+humidity :39
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:49:53 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:49","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :38
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:50:06 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:50","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :39
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:50:20 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:50","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :39
+update yeelink.
+get current time from webapi.
+33824
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:50:33 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:50","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+0
+
+
+read dht
+tempareture :25
+humidity :39
+update yeelink.
+get current time from webapi.
+33592
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:50:50 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:50","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :39
+update yeelink.
+get current time from webapi.
+33592
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:51:03 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:51","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :39
+update yeelink.
+get current time from webapi.
+33592
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:51:17 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:51","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :39
+update yeelink.
+get current time from webapi.
+33592
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:51:30 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:51","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :39
+update yeelink.
+get current time from webapi.
+33592
+connect OK...
+HTTP/1.1 200 OK
+Date: Thu, 19 May 2016 14:51:44 GMT
+Server: Apache/2.2.17 (Linux/SUSE)
+Cache-Control: no-cache
+Access-Control-Allow-Origin: *
+Transfer-Encoding: chunked
+Content-Type: application/json;charset=UTF-8
+
+dc
+{"time":"2016-05-19 22:51","countryName":"China","sunset":"2016-05-20 18:45","rawOffset":8,"dstOffset":8,"countryCode":"CN","gmtOffset":8,"lng":121.59,"sunrise":"2016-05-20 04:55","timezoneId":"Asia/Shanghai","lat":31.2}
+
+read dht
+tempareture :25
+humidity :38
+update yeelink.
