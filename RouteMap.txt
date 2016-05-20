@@ -1,0 +1,5 @@
+1. Extract the body from received http message, with cjson.
+2. Catch errors, for example the TCP connection, TCP send, receive may get erros. Need to catch error with pcall, and continue the program.
+3. Auto try and select wifi, as there are 2 wifis between home and the office, let the program automatically try and connect them instead of manually change the source code.
+4. Reuse socket, instead of creating new one each time.
+5. 

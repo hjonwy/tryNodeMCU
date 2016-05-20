@@ -1,8 +1,8 @@
 if true then
 	print("set up wifi mode")
 	wifi.setmode(wifi.STATION)
-	wifi.sta.config("Home-Woaiwojia","Wo@cao#ni$ma159357")
-	--wifi.sta.config("jike","Abc_123456")
+	--wifi.sta.config("Home-Woaiwojia","Wo@cao#ni$ma159357")
+	wifi.sta.config("jike","Abc_123456")
 	wifi.sta.connect()
 	
 	local cnt = 0
