@@ -38,8 +38,6 @@ function M.addDatapoint(sensor, datapoint, callback)
         callback()
       end
       
-      print(c)
-      
       sk:close();
       sk=nil;
   end)

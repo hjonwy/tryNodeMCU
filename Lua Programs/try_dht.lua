@@ -21,7 +21,7 @@ local readDHTAndSubmit = function()
     dataPoint = [[{"value":]] .. temp .."}"
     yeelink.addDatapoint(tSensor, dataPoint, function()
       print("finish update temperature")
-      dataPoint = [[{"value":]] .. humi .."}"    
+      dataPoint = [[{"value":]] .. humi .."}"
       yeelink.addDatapoint(hSensor, dataPoint, function()
         print("finish udpate humidity, restart main timer")
         tmr.start(mainTimerId)
@@ -31,8 +31,13 @@ local readDHTAndSubmit = function()
 end
 
 --update datapoints to yeelink each 12 seconds
-if tmr.alarm(mainTimerId,12000,1, function() tmr.stop(mainTimerId); readDHTAndSubmit();  end) then
-  print('main timer is start')
-else
-  print('main timer start failed.')
-end
+tmr.alarm(mainTimerId,12000,1, function()
+  tmr.stop(mainTimerId);
+  status,result = pcall(readDHTAndSubmit)
+  if not status then
+    print("read dht and submit failed due to " .. result)
+    tmr.start(mainTimerId)
+  end
+  
+end)
+
