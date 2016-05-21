@@ -6,6 +6,7 @@ local apiKey = "9a181908773eadd2cd4596a1f2be76d2"
 local tSensor = 388717 --temperature sensor id
 local hSensor = 388982 --humidity sensor id
 local mainTimerId = 2
+lcoal mainTimerInterval = 60 * 1000 -- update DHT data each 60 seconds.
 
 yeelink.init(device,apiKey)
 
@@ -31,7 +32,7 @@ local readDHTAndSubmit = function()
 end
 
 --update datapoints to yeelink each 12 seconds
-tmr.alarm(mainTimerId,12000,1, function()
+tmr.alarm(mainTimerId,mainTimerInterval,1, function()
   tmr.stop(mainTimerId);
   status,result = pcall(readDHTAndSubmit)
   if not status then

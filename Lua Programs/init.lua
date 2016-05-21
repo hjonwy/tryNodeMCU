@@ -15,7 +15,7 @@ if true then
 	    	tmr.unregister(1)
 	    	if (cnt < 20) then 
 	    	  print("Config done, IP is "..wifi.sta.getip())
-	    	  --dofile("try_dht.lua")
+	    	  dofile("try_dht.lua")
 	    	else 
 	    	  print("Wifi setup time more than 20s, Please verify wifi.sta.config() function. Then re-download the file.")
 	    	end
