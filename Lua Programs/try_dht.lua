@@ -6,7 +6,7 @@ local apiKey = "9a181908773eadd2cd4596a1f2be76d2"
 local tSensor = 388717 --temperature sensor id
 local hSensor = 388982 --humidity sensor id
 local mainTimerId = 2
-lcoal mainTimerInterval = 60 * 1000 -- update DHT data each 60 seconds.
+local mainTimerInterval = 60 * 1000 -- update DHT data each 60 seconds.
 
 yeelink.init(device,apiKey)
 
