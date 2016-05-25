@@ -58,7 +58,7 @@
 	1. 用Restful Web PAI的方式来增删改查设备和传感器.
 	2. 充当云的作用，用来存储数据，而且各个平台都很容易获取.
 	3. 先学习一下官方API，注册一个帐号，添加Device和Sensor.
-	4. 注意在发送数据的时候，报文里面的timestamp是可以省略的，服务器会自动设置成当前的时间.(我开始还用了一个web api来拿当前的时间 [timeapi](http://www.timeapi.org/utc/now).
+	4. 注意在发送数据的时候，报文里面的timestamp是可以省略的，服务器会自动设置成当前的时间.(我开始还用了一个web api来拿当前的时间 [timeapi] (http://www.timeapi.org/utc/now).
 	
 ```lua
 	local moduleName = ...
