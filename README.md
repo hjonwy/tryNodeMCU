@@ -4,7 +4,7 @@
 2. 学习Lua语言以及NodeMCU提供的库.
 3. DHT11模块的实践.
 4. 网络访问功能，将DHT11的数据上传到Yeelink.
-![images/Device.jpg](https://github.com/hjonwy/tryNodeMCU/blob/master/images/Device.jpg)
+![images/Device.PNG](https://github.com/hjonwy/tryNodeMCU/blob/master/images/Device.PNG)
 
 ##NodeMCU固件烧录
 1. 买板子，某宝搜NodeMCU.
